@@ -1,4 +1,4 @@
-# Restaurant Project
+# Effective Mobile Task Project | Restaurant
 
 ## Project Overview
 
