@@ -26,7 +26,9 @@ INSTALLED_APPS = [
     'corsheaders',
 
     # local apps
+    'common',
     'app_users',
+    'app_orders',
 ]
 
 MIDDLEWARE = [

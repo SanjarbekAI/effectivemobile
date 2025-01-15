@@ -5,7 +5,7 @@ class UserModel(AbstractUser):
     class Roles(models.TextChoices):
         ORDINARY = 'ORDINARY', 'Ordinary'
         MANAGER = 'MANAGER', 'Manager'
-        CACHER = 'CACHER', 'Cacher'
+        CASHIER = 'CASHIER', 'Cashier'
 
     role = models.CharField(
         max_length=20,
